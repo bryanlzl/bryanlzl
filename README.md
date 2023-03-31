@@ -20,10 +20,11 @@
 
 ---
 
-I'm a [Final Year Undergraduate @ NTU](https://www.linkedin.com/in/bryanlzl/) with a passion in front-end web development and automation in Singapore. I build on frameworks like React.js, ReactNative, TailwindCSS etc.
+I'm a [Final Year Undergraduate @ NTU](https://www.linkedin.com/in/bryanlzl/) with a passion in front-end web development and automation in Singapore. I use RPA tools such as UiPath Studio and build on frameworks like React.js, ReactNative, TailwindCSS etc.
 
 <h3>Things I code with</h3>
 <div>
+  <img alt="UiPath" src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo.png" /></a>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
