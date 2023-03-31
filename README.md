@@ -24,7 +24,6 @@ I'm a [Final Year Undergraduate @ NTU](https://www.linkedin.com/in/bryanlzl/) wi
 
 <h3>Things I code with</h3>
 <div>
-  <img alt="UiPath" src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo.png" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
