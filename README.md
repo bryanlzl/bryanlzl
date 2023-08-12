@@ -2,9 +2,6 @@
 
 <div align="center">
     <a href="#">
-        <img src="https://gpvc.arturio.dev/bryanlzl" alt="profile views">
-    </a>
-    <a href="#">
         <img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square" alt="Build Status">
     </a>
     <a href="https://github.com/bryanlzl/bryanlzl/graphs/contributors">
