@@ -46,6 +46,6 @@ I'm a [Master of Computing student @ NUS](https://www.linkedin.com/in/bryanlzl/)
 <h3>About me</h3>
 
 - 📫 How to reach me: `zhenlun.bryan@gmail.com`
-- ⚡ Fun fact: I am a chemistry graduate!
+- ⚡ Fun fact: I am a chemistry graduate, currently pursuing a Masters in Computing!
 - 🌱 I'm currently learning Nextjs, Spring (Java) and AWS
 - 💬 Feel free to ask me anything
