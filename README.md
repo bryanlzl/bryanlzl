@@ -1,4 +1,4 @@
-<h1 align="center">🤠 Howdy! I'm<a href="https://github.com/bryanlzl"> Bryan!</a></h1>
+<h1 align="center">🚀 Greetings! I'm<a href="https://github.com/bryanlzl"> Bryan!</a></h1>
 
 <div align="center">
     <a href="#">
