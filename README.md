@@ -17,7 +17,7 @@
 
 ---
 
-I'm a [Master of Computing student @ NUS](https://www.linkedin.com/in/bryanlzl/) with a passion in front-end web development and automation. I build on frameworks like React.js, ReactNative, TailwindCSS and use RPA tools such as UiPath Studio.
+I'm a [Master of Computing student @ NUS](https://www.linkedin.com/in/bryanlzl/) with a passion in web development and automation. I build on frameworks like React.js, ReactNative, TailwindCSS and use RPA tools such as UiPath Studio.
 
 <h3>Things I code with</h3>
 <div>
