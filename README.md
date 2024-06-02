@@ -17,7 +17,7 @@
 
 ---
 
-I'm a [Master of Computing student @ NUS](https://www.linkedin.com/in/bryanlzl/) with a passion for fullstack development. I build on frameworks like Next.js, React.js, ReactNative, TailwindCSS and use RPA tools such as UiPath Studio.
+I'm a [Master of Computing student @ NUS](https://www.linkedin.com/in/bryanlimzhenlun/) with a passion for fullstack development. I build on frameworks like Next.js, React.js, ReactNative, TailwindCSS and use RPA tools such as UiPath Studio.
 
 <h3>Things I code with</h3>
 <div>
