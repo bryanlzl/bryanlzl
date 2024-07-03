@@ -17,7 +17,8 @@
 
 ---
 
-I'm a [Master of Computing student @ NUS](https://www.linkedin.com/in/bryanlimzhenlun/) with a passion for fullstack development. I build on frameworks like Next.js, React.js, ReactNative, TailwindCSS and use RPA tools such as UiPath Studio.
+I am a fullstack developer passionate about building cool and fun projects in my free time. <br/>
+Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life!
 
 <h3>Things I code with</h3>
 <div>
@@ -25,9 +26,11 @@ I'm a [Master of Computing student @ NUS](https://www.linkedin.com/in/bryanlimzh
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
@@ -40,8 +43,9 @@ I'm a [Master of Computing student @ NUS](https://www.linkedin.com/in/bryanlimzh
 
 <h3>Things I'm learning</h3>
 <div>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-    <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
 </div>
 
 ---
