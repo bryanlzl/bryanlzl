@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Greetings, I'm<a href="https://github.com/bryanlzl"> Bryan! 🌠</a></h1>
+<h1 align="center">🚀 Greetings, I'm<a href="https://github.com/bryanlzl"> Bryan! 🚀</a></h1>
 
 <div align="center">
     <a href="#">
@@ -17,7 +17,7 @@
 
 ---
 
-I am a fullstack developer passionate about building cool and fun projects in my free time. <br/>
+A fullstack developer passionate about building cool and fun projects as and when I can. <br/>
 Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life!
 
 <h3>Things I code with</h3>
@@ -53,6 +53,6 @@ Check out my projects to see what I've been up to as I'm always exploring new wa
 <h3>About me</h3>
 
 - 📫 How to reach me: `zhenlun.bryan@gmail.com`
-- ⚡ Fun fact: I am a chemistry graduate, currently pursuing a Masters in Computing!
-- 🌱 I'm currently learning Nextjs, Spring (Java) and AWS
-- 💬 Feel free to ask me anything
+- ⚡ Fun fact: I am a chemistry graduate, currently pursuing a Master of Computing at NUS!
+- 🌱 Currently learning containerization services (Docker and Kubernetes), cloud services (AWS), and Flutter.
+- 💬 Feel free to ask me anything!
