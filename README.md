@@ -53,6 +53,6 @@ Check out my projects to see what I've been up to as I'm always exploring new wa
 <h3>About me</h3>
 
 - 📫 How to reach me: `zhenlun.bryan@gmail.com`
-- ⚡ Fun fact: I am a chemistry graduate, currently pursuing a Master of Computing at NUS!
+- ⚡ Fun fact: I have a degree in chemistry! Currently pursuing a Master of Computing at NUS!
 - 🌱 Currently learning containerization services (Docker and Kubernetes), cloud services (AWS), and Flutter.
 - 💬 Feel free to ask me anything!
