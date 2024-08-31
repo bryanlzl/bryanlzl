@@ -37,8 +37,9 @@ Check out my projects to see what I've been up to as I'm always exploring new wa
 
 <h3>Services I use</h3>
 <div>
+    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white"/>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </div>
 
 <h3>Things I'm learning</h3>
