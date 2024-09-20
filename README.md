@@ -19,6 +19,7 @@
 
 A fullstack developer passionate about building cool and fun projects as and when I can. <br/>
 Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life!
+Recently started dabbling with Unity for game development too 🎮
 
 <h3>Things I code with</h3>
 <div>
@@ -46,6 +47,7 @@ Check out my projects to see what I've been up to as I'm always exploring new wa
 <div>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
+    <img alt="Unity" src="\https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </div>
 
