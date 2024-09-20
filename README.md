@@ -18,8 +18,8 @@
 ---
 
 A fullstack developer passionate about building cool and fun projects as and when I can. <br/>
-Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life!
-Recently started dabbling with Unity for game development too 🎮
+Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life! <br/>
+Recently started dabbling with Unity 🎮
 
 <h3>Things I code with</h3>
 <div>
