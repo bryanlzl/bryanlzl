@@ -47,7 +47,7 @@ Recently started dabbling with Unity for game development too 🎮
 <div>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img alt="Unity" src="\https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
+    <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </div>
 
@@ -56,6 +56,6 @@ Recently started dabbling with Unity for game development too 🎮
 <h3>About me</h3>
 
 - 📫 How to reach me: `zhenlun.bryan@gmail.com`
-- ⚡ Fun fact: I have a degree in chemistry! Currently pursuing a Master of Computing at NUS!
-- 🌱 Currently learning containerization services (Docker and Kubernetes), cloud services (AWS), and Flutter.
+- ⚡ Fun fact: I have a degree in ⚗️🧪⌬! Last semester of NUS Master of Computing 🎓  
+- 🌱 Currently learning containerization services (Docker and Kubernetes), Unity, and Flutter.
 - 💬 Feel free to ask me anything!
