@@ -19,7 +19,7 @@
 
 A fullstack developer passionate about building cool and fun projects as and when I can. <br/>
 Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life! <br/>
-Recently started dabbling with Unity 🎮
+Recently started dabbling with Unity 🎮 and learning about networks 🖧
 
 <h3>Things I code with</h3>
 <div>
