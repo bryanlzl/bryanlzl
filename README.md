@@ -56,6 +56,6 @@ Recently started dabbling with Unity 🎮 and learning about networks 🖧
 <h3>About me</h3>
 
 - 📫 How to reach me: `zhenlun.bryan@gmail.com`
-- ⚡ Fun fact: I have a degree in ⚗️🧪⌬! Final semester of a computing masters at NUS 🎓  
-- 🌱 Currently learning containerization services (Docker and Kubernetes), Unity, and Flutter.
+- ⚡ Fun fact: I have a degree in ⚗️🧪⌬ + a masters in computing (NUS) 💻  
+- 🌱 Currently learning advanced SVG animations with GSAP and pursuing CCNA.
 - 💬 Feel free to ask me anything!
