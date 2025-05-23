@@ -56,6 +56,6 @@ Recently started dabbling with Unity 🎮 and learning about networks 🖧
 <h3>About me</h3>
 
 - 📫 How to reach me: `zhenlun.bryan@gmail.com`
-- ⚡ Fun fact: I have a degree in ⚗️🧪⌬ + a masters in computing (NUS) 💻  
+- ⚡ Fun fact: I love ⚗️🧪⌬  
 - 🌱 Currently learning advanced SVG animations with GSAP and pursuing CCNA.
 - 💬 Feel free to ask me anything!
