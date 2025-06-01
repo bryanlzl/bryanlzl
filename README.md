@@ -4,7 +4,7 @@ A fullstack developer passionate about building cool and fun projects as and whe
 Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life! <br/>
 Recently started dabbling in Svelte 5 and learning about networks 🖧
 
----
+<h1></h1>
 
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=bryanlzl&show_icons=true&theme=radical&hide_title=true" height="165" /> &nbsp;
@@ -26,12 +26,16 @@ Recently started dabbling in Svelte 5 and learning about networks 🖧
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
+<h1></h1>
+
 <h3>Services I use</h3>
 <div>
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white"/>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </div>
+
+<h1></h1>
 
 <h3>Things I'm learning</h3>
 <div>
@@ -41,11 +45,11 @@ Recently started dabbling in Svelte 5 and learning about networks 🖧
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </div>
 
----
+<h1></h1>
 
 <h3>About me</h3>
 
 - 📫 How to reach me: `zhenlun.bryan@gmail.com`
-- ⚡ Fun fact: I love ⚗️🧪⌬  
-- 🌱 Currently learning advanced SVG animations with GSAP and pursuing CCNA.
+- ⚡ Fun fact: I love exploring new web frameworks/libraries  
+- 🌱 Picking up advanced SVG animations with GSAP.
 - 💬 Feel free to ask me anything!
