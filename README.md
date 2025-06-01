@@ -1,25 +1,15 @@
 <h1 align="center">🚀 Greetings, I'm<a href="https://github.com/bryanlzl"> Bryan! 🚀</a></h1>
 
-<div align="center">
-    <a href="#">
-        <img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square" alt="Build Status">
-    </a>
-    <a href="https://github.com/bryanlzl/bryanlzl/graphs/contributors">
-        <img src="https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square" alt="Build Status" />
-    </a>
-    <a href="https://choosealicense.com/licenses/mit">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" />
-    </a>
-    <a href="https://www.linkedin.com/in/bryanlimzhenlun/">
-        <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn" />
-    </a>
-</div>
+A fullstack developer passionate about building cool and fun projects as and when I can. <br/>
+Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life! <br/>
+Recently started dabbling in Svelte 5 and learning about networks 🖧
 
 ---
 
-A fullstack developer passionate about building cool and fun projects as and when I can. <br/>
-Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life! <br/>
-Recently started dabbling with Unity 🎮 and learning about networks 🖧
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanlzl&show_icons=true&theme=radical&hide_title=true" height="165" /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlzl&layout=compact&theme=radical&exclude_repo=teoscribe-learn-teochew,hdb-resale-prediction,hdb-resale-eda,CM4044_Project_1,pentago,N2U-wellbeing-platform,chess-without-chess-libraries,excel-compiler" height="165" />
+</div>
 
 <h3>Things I code with</h3>
 <div>
