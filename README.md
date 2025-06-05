@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  A fullstack developer passionate about building cool and fun projects as and when I can. <br/>
+  Someone passionate about building cool and interactive web features as and when I can. <br/>
   Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life! <br/>
   Recently started dabbling in Svelte 5 and learning about networks
 </div>
