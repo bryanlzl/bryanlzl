@@ -18,9 +18,9 @@
 <br/>
 
 <div align="center">
-  Passionate about building cool web stuff as and when I can. <br/>
-  Check out my projects to see what I've been up to as I'm always exploring new ways to bring ideas to life! <br/>
-  Recently started dabbling in Svelte 5 and learning about networks
+    I love hacking together cool web projects and seeing what breaks (and what works). <br/>
+    Check out my repos 👉 I’m always trying new things. <br/>
+    Currently dabbling in Svelte 5 and networks.
 </div>
 
 <h1></h1>
