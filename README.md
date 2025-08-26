@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-    I love hacking together cool web projects and seeing what breaks (and what works). <br/>
+    I love hacking together cool web stuff and seeing what breaks (and works). <br/>
     Check out my repos 👉 I’m always trying new things. <br/>
     Currently dabbling in Svelte 5 and networks.
 </div>
