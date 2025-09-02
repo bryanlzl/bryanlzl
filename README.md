@@ -35,6 +35,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-101010?style=flat&logoSize=auto&logo=greensock&logoColor=lightGreen" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/framer_motion-ffca28?style=flat&logo=framer&logoColor=%23ffffff&color=%237178f6" />
+  <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-white.svg?style=flat&logo=Puppeteer&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 </div>
 
