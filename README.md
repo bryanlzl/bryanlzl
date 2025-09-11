@@ -37,7 +37,7 @@
   <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-white.svg?style=flat&logo=Puppeteer&logoColor=black" />
 </div>
 
-<h3 align="center">Stuff I use to support the above stuff</h3>
+<h3 align="center">Stuff I use to support the stuff above</h3>
 <div align="center">
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
