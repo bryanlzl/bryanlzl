@@ -19,8 +19,8 @@
 
 <div align="center">
     I love hacking together cool web stuff and seeing what breaks (and works). <br/>
-    Check out my repos 👉 I’m always trying new things. <br/>
-    Currently dabbling in Svelte 5 and networks.
+    Check out my repos as I’m always trying new things. <br/>
+    Currently dabbling in Svelte 5 and GSAP animations.
 </div>
 
 <h1></h1>
