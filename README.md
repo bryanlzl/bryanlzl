@@ -31,8 +31,8 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-squar&logo=svelte&logoColor=orange"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> 
-  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-101010?style=flat&logoSize=auto&logo=greensock&logoColor=lightGreen" />
-  <img alt="Framer Motion" src="https://img.shields.io/badge/framer_motion-ffca28?style=flat&logo=framer&logoColor=%23ffffff&color=%237178f6" />
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=000" />
+  <img alt="Motion" src="https://img.shields.io/badge/framer_motion-ffca28?style=flat&logo=framer&logoColor=%23ffffff&color=%237178f6" />
   <img alt="Deck.gl" src="https://img.shields.io/badge/Deck.gl-8A2BE2?style=flat-square&logo=ubisoft&logoColor=white" />
   <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-white.svg?style=flat&logo=Puppeteer&logoColor=black" />
 </div>
@@ -40,6 +40,7 @@
 <h3 align="center">Stuff I use to support the stuff above</h3>
 <div align="center">
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    <img alt="Nest" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white"/>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
