@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm <a href="https://github.com/bryanlzl">Bryan</a> !</h1>
 
-<h3></h3>
-<div align="center">
+<!-- <div align="center">
     <a href="#">
         <img src="https://komarev.com/ghpvc/?username=bryanlzl" alt="profile views">
     </a>
@@ -14,7 +13,7 @@
     <a href="https://choosealicense.com/licenses/mit">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" />
     </a>
-</div>
+</div> -->
 <br/>
 
 <div align="center">
