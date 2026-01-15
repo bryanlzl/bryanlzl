@@ -88,9 +88,9 @@
 <h3></h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bryanlzl&theme=radical" height="165" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=bryanlzl&theme=radical" height="165" /> -->
 </div>
 <div align="center">
   <img src="https://github-readme-stats-phi-five-72.vercel.app/api?username=bryanlzl&show_icons=true&theme=radical&hide_title=true&count_private=true" height="165" /> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlzl&layout=compact&theme=radical&exclude_repo=teoscribe-learn-teochew,hdb-resale-prediction,hdb-resale-eda,CM4044_Project_1,pentago,N2U-wellbeing-platform,chess-without-chess-libraries,excel-compiler" height="165" />
+  <img src="https://github-readme-stats-phi-five-72.vercel.app/api/top-langs/?username=bryanlzl&layout=compact&theme=radical&exclude_repo=teoscribe-learn-teochew,hdb-resale-prediction,hdb-resale-eda,CM4044_Project_1,pentago,N2U-wellbeing-platform,chess-without-chess-libraries,excel-compiler" height="165" />
 </div>
