@@ -19,7 +19,7 @@
 <div align="center">
     I love hacking together cool web stuff and seeing what breaks (and works). <br/>
     Check out my repos as I’m always trying new things. <br/>
-    Currently dabbling in Svelte 5 and Rust (for ultrafast web tooling).
+    Currently dabbling in Rust for ultrafast web tooling.
 </div>
 
 <h1></h1>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td>🌱 <strong>Currently learning:</strong></td>
-    <td>Advanced Rust as web tooling</td>
+    <td>Rust as web tooling</td>
   </tr>
   <tr>
     <td>💬 <strong>Ask me anything!</strong></td>
