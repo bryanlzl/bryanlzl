@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-    I love hacking together cool web stuff and seeing what breaks (and works). <br/>
+    I love hacking together web stuff and seeing what breaks (and works). <br/>
     Check out my repos as I’m always trying new things. <br/>
     Currently dabbling in Rust for ultrafast web tooling.
 </div>
