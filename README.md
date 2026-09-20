@@ -29,10 +29,11 @@
   <img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=flat-squar&logo=svelte&logoColor=orange"/>
+  <img alt="Deck.gl" src="https://img.shields.io/badge/Deck.gl-8A2BE2?style=flat-square&logo=ubisoft&logoColor=white" />
+  <img alt="luma.gl" src="https://img.shields.io/badge/luma.gl-8A2BE2?style=flat-square&logo=webgl&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> 
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=000" />
   <img alt="Motion" src="https://img.shields.io/badge/framer_motion-ffca28?style=flat&logo=framer&logoColor=%23ffffff&color=%237178f6" />
-  <img alt="Deck.gl" src="https://img.shields.io/badge/Deck.gl-8A2BE2?style=flat-square&logo=ubisoft&logoColor=white" />
   <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-white.svg?style=flat&logo=Puppeteer&logoColor=black" />
 </div>
 
